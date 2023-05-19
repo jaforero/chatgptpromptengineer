@@ -10,4 +10,7 @@ Transforming text (e.g., translation, spelling & grammar correction)
 Expanding (e.g., automatically writing emails)
 In addition, you’ll learn two key principles for writing effective prompts, how to systematically engineer good prompts, and also learn to build a custom chatbot. 
 
-All concepts are illustrated with numerous examples, which you can play with directly in our Jupyter notebook environment to get hands-on experience with prompt engineering. 
+All concepts are illustrated with numerous examples, which you can play with directly in our Jupyter notebook environment to get hands-on experience with prompt engineering.
+
+Course provide by Deeplearning.AI (https://learn.deeplearning.ai/) In partnership with OpenAI
+https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
